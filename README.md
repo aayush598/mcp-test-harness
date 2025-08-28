@@ -1,7 +1,3 @@
-I'm sorry about that! I understand you need the content of the `README.md` file in a copyable format, without the immersive tags.
-
-Here is the plain text content of the `README.md` file for the Autonomous Multi-Agent MCP Test Harness:
-
 # Autonomous Multi-Agent MCP Test Harness
 
 This repository contains the blueprints and implementation for an autonomous, multi-agent test harness designed to rigorously validate and stress Model Context Protocol (MCP) server implementations. The harness is built on a modular architecture, allowing you to select and combine different types of agents to create comprehensive and repeatable test scenarios.
